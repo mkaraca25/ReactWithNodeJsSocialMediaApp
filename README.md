@@ -1,4 +1,4 @@
-# ReactWithNodeJsSocialMediaApp
+# React With NodeJs Social Media App
 
 # Getting Started with Create React App
 
